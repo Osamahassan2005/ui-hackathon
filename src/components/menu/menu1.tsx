@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import menuimg1 from "../../../public/assets/menu/menu1-img.png";
-import coffee from "../../../public/assets/menu/Coffee.png";
+import coffee from "../../../public/assets/menu/coffee.png";
 import MenuPart from "../microComponents/menuPart";
 
 const Menu1 = () => {
